@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E1B-0E76
+
+ Directory of C:\Users\hp\Desktop\demofromcmd
+
+01/09/2019  11:11 AM    <DIR>          .
+01/09/2019  11:11 AM    <DIR>          ..
+01/09/2019  11:11 AM                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  45,633,036,288 bytes free
